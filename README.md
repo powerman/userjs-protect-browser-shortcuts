@@ -25,4 +25,4 @@ By default it protects only these keys:
     * ***OPERA 12 (and below)***: Follow instructions located on Opera's site: [User JS](http://www.opera.com/docs/userjs/using/#writingscripts) or try [Violentmonkey](https://addons.opera.com/en-gb/extensions/details/violent-monkey/).
     * ***SAFARI***: Install [NinjaKit](http://d.hatena.ne.jp/os0x/20100612/1276330696).
 2. Install the user script by clicking here: [github-asciidoc.user.js](https://github.com/powerman/userjs-protect-browser-shortcuts/raw/master/protect-browser-shortcuts.user.js).
-   You can also install it from [GreasyFork](https://greasyfork.org/scripts/0-protect-browser-shortcuts).
+   You can also install it from [GreasyFork](https://greasyfork.org/scripts/24505-protect-browser-shortcuts).
