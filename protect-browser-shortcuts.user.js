@@ -5,7 +5,7 @@
 // @run-at      document-start
 // @include     *
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @downloadURL https://github.com/powerman/userjs-protect-browser-shortcuts/raw/master/protect-browser-shortcuts.user.js
 // @updateURL   https://github.com/powerman/userjs-protect-browser-shortcuts/raw/master/protect-browser-shortcuts.user.js
 // @namespace   https://github.com/powerman/userjs-protect-browser-shortcuts
@@ -16,6 +16,7 @@
 
 	var shortcuts = [
 		{input:false, ctrl:false, alt:false, meta:false, shift:false, code:'Slash'},
+		{input:true,  ctrl:true,  alt:false, meta:false, shift:false, code:'Tab'},
 	];
 	var shortcuts_len = shortcuts.length;
 
